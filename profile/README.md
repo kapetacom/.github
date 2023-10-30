@@ -6,7 +6,7 @@ Here you'll find an overview of the various repositories we have, their purpose 
 
 We want to engage as much as possible with the open source community and for that reason we've open sourced most of what we're doing. 
 
-Some of the more advanced and core parts of Kapeta are hower licensed under the BUSL license - also known as source available. This is to protect our interests as a business and 
+Some of the more advanced and core parts of Kapeta are however licensed under the BUSL license - also known as source available. This is to protect our interests as a business and 
 ensure that Kapeta will exist forever :) 
 
 All software that is installed on your machine or in your cloud will have its source available - with either a MIT or BUSL license.
