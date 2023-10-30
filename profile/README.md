@@ -68,3 +68,6 @@ providers. This simply to make it easy to copy and adjust things to your needs.
 You can find them [here](https://github.com/search?q=topic%3Aui-library+org%3Akapetacom&type=Repositories) - the main one being [ui-web-components](https://github.com/kapetacom/ui-web-components)
 
 The UI library is MIT licensed - except for ui-web-plan-editor which is BUSL licensed.
+
+### Cloud Services
+As part of the Kapeta system we also have a number of cloud services and web frontends. These will remain closed sourced for now - but we aim to publish several if not all of them in the future. 
