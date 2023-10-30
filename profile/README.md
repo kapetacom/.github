@@ -41,9 +41,11 @@ You can find them here:
 - [Browser SDK](https://github.com/search?q=topic%3Abrowser-sdk+org%3Akapetacom&type=Repositories)
 
 ### Plugins / Providers
-At the core of Kapeta we have a series of plugins that provide all support for environments (frontend, backend and more), language targets, resource types etc. 
+At the core of Kapeta we have a series of plugins that provide all support for block types, language targets, resource types etc. 
 
 You can view them [here](https://github.com/search?q=topic%3Aproviders+org%3Akapetacom&type=Repositories).
+
+To learn more about these concepts have a look at our knowledge base page here: https://docs.kapeta.com/docs/providers
 
 Providers are MIT licensed with the exception of Deployment Targets which are BUSL licensed.
 
