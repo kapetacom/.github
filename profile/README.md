@@ -40,8 +40,8 @@ You can find them here:
 - [NodeJS SDK](https://github.com/search?q=topic%3Anodejs-sdk+org%3Akapetacom&type=Repositories)
 - [Browser SDK](https://github.com/search?q=topic%3Abrowser-sdk+org%3Akapetacom&type=Repositories)
 
-### Plugins / Providers
-At the core of Kapeta we have a series of plugins that provide all support for block types, language targets, resource types etc. 
+### Providers
+At the core of Kapeta we have a series of what we call "providers" that provide support for block types, language targets, resource types, deployment targets and more.
 
 You can view them [here](https://github.com/search?q=topic%3Aproviders+org%3Akapetacom&type=Repositories).
 
