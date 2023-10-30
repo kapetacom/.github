@@ -2,6 +2,15 @@
 
 Here you'll find an overview of the various repositories we have, their purpose and their licensing. 
 
+## Documentation
+
+To learn more about how to use Kapeta please visit our support site: 
+[https://docs.kapeta.com/](https://docs.kapeta.com/)
+
+## Getting Help
+
+We're always here to help - simply write us at support@kapeta.com
+
 ## Open Source
 
 We want to engage as much as possible with the open source community and for that reason we've open sourced most of what we're doing. 
@@ -32,7 +41,7 @@ You can find them here:
 - [Browser SDK](https://github.com/search?q=topic%3Abrowser-sdk+org%3Akapetacom&type=Repositories)
 
 ### Plugins / Providers
-At the core of Kapeta we have a serious of plugins that provide all support for environments (frontend, backend etc), Language targets, Resource types etc. 
+At the core of Kapeta we have a series of plugins that provide all support for environments (frontend, backend and more), language targets, resource types etc. 
 
 You can view them [here](https://github.com/search?q=topic%3Aproviders+org%3Akapetacom&type=Repositories).
 
