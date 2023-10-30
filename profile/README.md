@@ -4,7 +4,7 @@ Here you'll find an overview of the various repositories we have, their purpose 
 
 ## Documentation
 
-To learn more about how to use Kapeta please visit our support site: 
+To learn more about how to use Kapeta please visit our knowledge base: 
 [https://docs.kapeta.com/](https://docs.kapeta.com/)
 
 ## Getting Help
