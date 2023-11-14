@@ -1,0 +1,7 @@
+{
+  "name": "Npm publish on PR comment",
+  "description": "Publish prereleases from PRs by commenting 'npm publish'.",
+  "iconName": "octicon package",
+  "categories": ["npm", "node"],
+  "filePatterns": ["package.json$"]
+}
